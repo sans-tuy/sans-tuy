@@ -1,15 +1,16 @@
 ### Hi I'm Sanusi 👋
 
-3rd year Computer Science student at Universitas Pembangunan Nasional "Veteran" Jawa Timur.
+3rd year Computer Science student at [Universitas Pembangunan Nasional "Veteran" Jawa Timur](https://www.upnjatim.ac.id/).<Br/>
 A candidate software Engineer and fullstack javascript.
 
 :computer: Tools:
-Languages: Javascript, Typescript, Python, and C++.
+
+Languages: Javascript, Typescript, Python, and C++.<Br/>
 Framework: React,React Native, Flask.
 
-Chat me in :
-:mailbox_with_mail:
-https://img.shields.io/badge/-Gmail-00acee?style=flat&logo=gmail&logoColor=white&link=mailto:anwarsanusisan@gmail.com)](mailto:anwarsanusisan@gmail.com) https://img.shields.io/badge/-Linkedin-00acee?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anwar-sanusi-1470a921a)](https://www.linkedin.com/in/anwar-sanusi-1470a921a)
+:mailbox_with_mail: Chat me in :
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-00acee?style=flat&logo=gmail&logoColor=white&link=mailto:anwarsanusisan@gmail.com)](mailto:anwarsanusisan@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-00acee?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anwar-sanusi-1470a921a)](https://www.linkedin.com/in/anwar-sanusi-1470a921a)
 
 <!--
 **sans-tuy/sans-tuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
