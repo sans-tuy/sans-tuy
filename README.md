@@ -6,7 +6,7 @@ A candidate software Engineer and fullstack javascript.
 :computer: Tools:
 
 Languages: Javascript, Typescript, Python, Dart and C++.<Br/>
-Framework: React,React Native, Flask, Express.
+Framework: React, React Native, Express.
 
 :mailbox_with_mail: Chat me in :
 
